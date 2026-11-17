@@ -1,0 +1,6 @@
+{
+  "name": "CareerNave",
+  "description": "CareerNave connects learners, employers, training providers and government-funded skills programmes. A division of MBS Utilities (Pty) Ltd, Middelburg, Mpumalanga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
