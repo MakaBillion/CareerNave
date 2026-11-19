@@ -7,6 +7,7 @@ import SectorsSection from "@/src/components/site/SectorsSection";
 import SetasSection from "@/src/components/site/SetasSection";
 import ContactSection from "@/src/components/site/ContactSection";
 import SiteFooter from "@/src/components/site/SiteFooter";
+import CareerChatWidget from "@/src/components/site/CareerChatWidget";
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
           <ContactSection />
         </main>
         <SiteFooter />
+        <CareerChatWidget />
       </div>
     </MotionConfig>
   );

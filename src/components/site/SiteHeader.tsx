@@ -47,7 +47,7 @@ export default function SiteHeader() {
           : "border-transparent bg-white/85 backdrop-blur-sm"
       }`}
     >
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-8 px-5 sm:h-20 sm:px-8">
+      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-8 px-5 sm:h-20 sm:px-8">
         <Logo />
 
         <nav className="hidden items-center gap-7 lg:flex" aria-label="Primary navigation">
